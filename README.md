@@ -10,10 +10,13 @@ Esta app permite:
 
 ## 🚀 Tecnologías utilizadas
 
-- React + Vite
-- TailwindCSS
-- Node.js (para desarrollo)
-- Anima (para prototipado inicial)
+- **React** + **TypeScript**
+- **Vite** como bundler
+- **TailwindCSS** para estilos
+- **Anima** para prototipado inicial
+- Algunos archivos de apoyo en:
+  - **Jupyter Notebook** (análisis de datos preliminar)
+  - **JavaScript / CSS / HTML** (de la exportación de Anima)¿
 
 ---
 
