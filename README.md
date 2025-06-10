@@ -1,6 +1,6 @@
 # Chambify
 
-**Chambify** es una plataforma que conecta personas que necesitan ayuda con carga o descarga de productos pesados con prestadores de servicios llamados **jumpers**. Inspirada en modelos tipo Uber, busca resolver ineficiencias logísticas en sectores como el retail, mudanzas y logística de última milla.
+**Chambify** es una plataforma que conecta personas que necesitan ayuda con carga o descarga de productos pesados con prestadores de servicios llamados **chambeadores**. Inspirada en modelos tipo Uber, busca resolver ineficiencias logísticas en sectores como el retail, mudanzas y logística de última milla.
 
 Esta app permite:
 - Publicar trabajos en tiempo real.
