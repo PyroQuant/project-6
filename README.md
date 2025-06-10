@@ -4,9 +4,9 @@
 
 Esta app permite:
 - Publicar trabajos en tiempo real.
-- Aceptar o rechazar trabajos disponibles (estilo Tinder).
-- Activar o desactivar la disponibilidad como jumper.
-- Diferenciar la vista entre clientes y jumpers.
+- Aceptar o rechazar trabajos disponibles.
+- Activar o desactivar la disponibilidad como chambeador.
+- Diferenciar la vista entre clientes y chambeador.
 
 ## 🚀 Tecnologías utilizadas
 
@@ -14,6 +14,16 @@ Esta app permite:
 - TailwindCSS
 - Node.js (para desarrollo)
 - Anima (para prototipado inicial)
+
+---
+
+## ✨ Estado del proyecto
+
+- 🔧 En desarrollo - MVP en construcción.
+- 👥 Equipo: 2 desarrolladores + 2 en gestión y modelo de negocios
+
+> **💡 Inspiración**
+> Este proyecto nace de la observación directa de problemáticas logísticas en sectores como el despacho de tiendas retail y la falta de ayuda para personas que enfrentan tareas físicas pesadas sin apoyo inmediato.
 
 ---
 
@@ -26,17 +36,7 @@ Primero, abre tu terminal y clona este repositorio:
 ```bash
 git clone https://github.com/TU_USUARIO/chambify-app.git
 cd chambify-app
-
-
-## ✨ Estado del proyecto
-
-🔧 En desarrollo - MVP en construcción.
-📅 Fechas clave: Demo semi-final 15 de julio · Final 22 de julio
-👥 Equipo: 2 desarrolladores + 2 en gestión y modelo de negocios
-
-> **💡 Inspiración**
-> Este proyecto nace de la observación directa de problemáticas logísticas en sectores como el despacho de tiendas retail y la falta de ayuda para personas que enfrentan tareas físicas pesadas sin apoyo inmediato.
-
+```
 ### 📥 Instalar dependencias
 Asegúrate de tener instalado Node.js (versión recomendada: ≥18). Luego ejecuta:
 ```
@@ -62,11 +62,11 @@ npm run build
 ```
 
 ## 🛠 Estructura general del proyecto
-📁 public/         → Archivos estáticos
-📁 src/
-  ┣ 📁 components/ → Componentes reutilizables
-  ┣ 📁 pages/      → Vistas principales de la app
-  ┣ 📁 assets/     → Imágenes, logos, íconos
-  ┗ 📄 main.jsx    → Punto de entrada principal
+- `public/`:Archivos estáticos
+- `src/`
+  - `components/`: Commponentes reutilizables
+  - `pages/`: Vistas principales de la app
+  - `assets/`: Imágenes, logos, íconos
+  - `main.jsx/`: Punto de entrada principal
 
 
