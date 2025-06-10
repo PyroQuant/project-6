@@ -16,7 +16,7 @@ Esta app permite:
 - **Anima** para prototipado inicial
 - Algunos archivos de apoyo en:
   - **Jupyter Notebook** (análisis de datos preliminar)
-  - **JavaScript / CSS / HTML** (de la exportación de Anima)¿
+  - **JavaScript / CSS / HTML** (de la exportación de Anima)
 
 ---
 
