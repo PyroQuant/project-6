@@ -37,7 +37,7 @@ Esta app permite:
 Primero, abre tu terminal y clona este repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/chambify-app.git
+git clone https://github.com/PyroQuant/project-6
 cd chambify-app
 ```
 ### 📥 Instalar dependencias
