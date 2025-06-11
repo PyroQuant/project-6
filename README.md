@@ -38,7 +38,7 @@ Primero, abre tu terminal y clona este repositorio:
 
 ```bash
 git clone https://github.com/PyroQuant/project-6
-cd chambify-app
+cd project-6
 ```
 ### 📥 Instalar dependencias
 Asegúrate de tener instalado Node.js (versión recomendada: ≥18). Luego ejecuta:
